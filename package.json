@@ -1,0 +1,15 @@
+{
+  "name": "jsforce-connect",
+  "version": "1.0.0",
+  "description": "A small helper for dealing with Jsforce connections.",
+  "main": "index.js",
+  "peerDependencies": {
+    "jsforce": "^1.8.0"
+  },
+  "keywords": [
+    "jsforce",
+    "salesforce"
+  ],
+  "author": "Matthew Jones matt@hew.tools",
+  "license": "MIT"
+}
